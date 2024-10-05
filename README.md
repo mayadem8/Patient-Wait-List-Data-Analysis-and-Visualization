@@ -1,2 +1,18 @@
 # Patient-Wait-List-Data-Analysis-and-Visualization
-This project involves the development of an interactive dashboard in Power BI to analyze and visualize patient waiting lists in a healthcare setting. The dashboard distinguishes between inpatient and outpatient cases, allowing stakeholders to track the current status of waiting lists and analyze historical trends from 2018 to 2021.
+
+## Dashboard Overview
+
+The dashboard includes the following key components:
+
+- **Requirement Gathering:** Engaged with stakeholders to understand business objectives and define clear project goals.
+- **Data Collection:** Utilized various data connectors to import datasets, ensuring seamless integration.
+- **Data Transformation:** Cleaned and modeled the data, addressing quality issues to prepare for analysis.
+- **Dashboard Design:** Designed a user-friendly interface with interactive charts and visuals for easy data interpretation.
+- **Interactivity:** Added filters, slicers, and navigation features to enhance user engagement and enable detailed exploration of the data.
+
+
+## Key Features
+
+- **User-Centric Design:** Emphasizes clarity and usability for quick insights.
+- **Dynamic Visuals:** Interactive elements to engage users and facilitate data exploration.
+- **Data Integrity:** Ensures high-quality analysis through rigorous data transformation processes.
